@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Rajput</h1>
-<h3 align="center">I am a third-year CSE undergraduate student from PICT. I am self-motivated and a keen learner of new things.</h3>
+<h3 align="center">I am a final-year CSE undergraduate student from PICT. I am self-motivated and a keen learner of new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-yash-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="the-yash-rajput" /> </p>
 <br/>
