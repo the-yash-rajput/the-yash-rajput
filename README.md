@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Rajput</h1>
-<h3 align="center">I am a final-year CSE undergraduate student from PICT. I am self-motivated and a keen learner of new things.</h3>
+<h1 align="center">Hi 👋, I'm Yash Rajput</h1> <h3 align="center">I’m a 2023 graduate in Computer Science from PICT, passionate about building scalable, high-impact software solutions. With a strong background in algorithms and problem-solving, I’ve contributed to innovative projects at Turtlemint and Interview Mocha. As a highly skilled software engineer, I thrive on tackling complex challenges and driving results through clean, efficient code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-yash-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="the-yash-rajput" /> </p>
 <br/>
@@ -9,10 +8,9 @@
 </a>
 
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-<!-- - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜** -->
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
-- 🙂 𝙸’𝚖 intern at **Turtlemint**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 o𝚗 **Software Design, Building Complex Projects**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Innovative Complex Projects**
+- 🙂 𝙸’𝚖 Software Engineer at **Turtlemint**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/the-yash-rajput/the-yash-rajput/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
@@ -36,8 +34,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-yash-rajput&show_icons=true&locale=en&layout=compact" alt="the-yash-rajput" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-yash-rajput&repo=Turtlemint-India&show_icons=true&locale=en&layout=compact" alt="the-yash-rajput" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-yash-rajput&show_icons=true&locale=en" alt="the-yash-rajput" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-yash-rajput&show_icons=true&locale=en" alt="the-yash-rajput" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme2-streak-stats.herokuapp.com/?user=the-yash-rajput&" alt="the-yash-rajput" /></p> -->
